@@ -1,4 +1,4 @@
-# 🚘 Car Value Predictor – AI-Powered Car Price Estimator
+# 🚘 Car Value Predictor 
 
 **An AI-powered web application that predicts the resale value of a car based on specifications like brand, model, fuel type, kilometers driven, and manufacturing year — styled with a high-end Apple-like aesthetic.**
 
@@ -10,7 +10,6 @@
 
 - 🔮 **Accurate Price Predictions** using a trained Linear Regression model on cleaned car resale data.
 - ⚡️ **Real-time dynamic form**: Model list updates automatically when the company is selected.
-- 🍎 **macOS/Apple-style UI**: Minimal, glassmorphic design with smooth Spotlight-style animation on prediction reveal.
 - 📊 **Machine Learning Backend**: Trained on real-world car resale data for smart valuation.
 - 🔥 Responsive layout built with Bootstrap 4, custom CSS, and JS interactivity.
 - 🔄 Extensible architecture — easily swappable model or frontend for upgrades.
