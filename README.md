@@ -1,6 +1,6 @@
 # 🚘 Car Value Predictor 
 
-**An AI-powered web application that predicts the resale value of a car based on specifications like brand, model, fuel type, kilometers driven, and manufacturing year — styled with a high-end Apple-like aesthetic.**
+**An AI-powered web application that predicts the resale value of a car based on specifications like brand, model, fuel type, kilometers driven, and manufacturing year**
 
 ![Car Value Predictor Screenshot](static/images/preview.png)
 
