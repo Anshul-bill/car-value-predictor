@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features anshul
 
 - 🔮 **Accurate Price Predictions** using a trained Linear Regression model on cleaned car resale data.
 - ⚡️ **Real-time dynamic form**: Model list updates automatically when the company is selected.
